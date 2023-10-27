@@ -9,10 +9,11 @@
   "author": "mickfayo",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "mock-fs": "^5.2.0"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/mickfay/student_progress.git"
+    "type": "git",
+    "url": "https://github.com/mickfay/student_progress.git"
   }
 }
